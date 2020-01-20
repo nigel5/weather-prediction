@@ -4,6 +4,8 @@ In this notebook we going through the steps of loading, cleaning up, and visuali
 
 The model we will use is [Prophet](https://facebook.github.io/prophet/docs/quick_start.html) by Facebook. This model is built on top of scikit-learn and allows us to effortlessly construct models from processed time series datasets.
 
+Model score: 78%
+
 ## Requirement
 - Python 3.7+
 
