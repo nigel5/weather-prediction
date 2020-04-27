@@ -1,6 +1,6 @@
 # Average Temperature Forecasting
 
-In this notebook we going through the steps of loading, cleaning up, and visualizing a time series dataset to build a model which can predict daily temperatures. The data used in this notebook is from [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/datasets).
+In this notebook we will be going through the steps of loading, cleaning up, and visualizing a time series dataset to build a model which can predict daily temperatures. The data used in this notebook is from [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/datasets).
 
 The model we will use is [Prophet](https://facebook.github.io/prophet/docs/quick_start.html) by Facebook. This model is built on top of scikit-learn and allows us to effortlessly construct models from processed time series datasets.
 
